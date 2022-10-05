@@ -9,4 +9,6 @@ Latest Spark Example written by myself.
 
 *Elasticsearch 7.17*
 
+*news.json sample data is from https://www.kaggle.com/datasets/deeguy/twitter-news?resource=download&select=news.json*
+
 ### This Script build in in 5 Oct 2022
