@@ -1,5 +1,5 @@
 # spark-example
-Latest Spark Example written by myself.
+Latest Spark Example for those who want to learn.
 
 *Java 8*
 
