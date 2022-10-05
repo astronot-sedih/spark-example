@@ -1,0 +1,8 @@
+SparkMapFilter.class
+SparkSolr.class
+SparkStreamKafka$1.class
+SparkStreamKafka.class
+SparkReadJson.class
+SparkStreamKafka$2.class
+SparkFlatMapDistinct.class
+SparkGroupBy.class
