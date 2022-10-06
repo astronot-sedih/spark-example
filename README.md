@@ -1,5 +1,6 @@
 # spark-example
 Latest Spark Example for those who want to learn.
+### This Script build in in 5 Oct 2022
 
 *Java 8*
 
@@ -11,4 +12,4 @@ Latest Spark Example for those who want to learn.
 
 *news.json sample data is from https://www.kaggle.com/datasets/deeguy/twitter-news?resource=download&select=news.json*
 
-### This Script build in in 5 Oct 2022
+Every PLatfrom such as Elastic or Solr is installed on my local machine,so i recommend you to use cloud server or use docker compose
