@@ -45,13 +45,7 @@ public class SparkGroupBy {
                         final_result.put("mediaCount",Integer.parseInt(test[6]));
                         final_result.put("username",test[7]);
                         final_result.put("verified",Boolean.parseBoolean(test[8]));
-                    } catch (Exception e) {
-                        ;
-                    }
-                } else {
-                    ;
-                }
-            } catch (Exception e) {;}
+                    } catch (Exception e) {;}} else {;}} catch (Exception e) {;}
             return final_result;
         }).filter(x -> !(x.isEmpty())).groupBy(x -> x.get("verified"));
         System.out.println("=============================================================");
