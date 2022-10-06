@@ -60,7 +60,7 @@ public class SparkStreamKafka {
 
 
         // TOPIC SET
-        Collection<String> topics = Arrays.asList("tw-post-v3");
+        Collection<String> topics = Arrays.asList("twitter-post");
 
         // CREATE DIRECT STREAM FROM SPARK TO KAFKA
         JavaInputDStream<ConsumerRecord<String, String>> stream = KafkaUtils.createDirectStream(jssc,
